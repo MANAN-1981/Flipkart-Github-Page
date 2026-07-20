@@ -28,6 +28,8 @@ header {
   margin-bottom: 0px;
   padding: 0px 24px;
   background: #fff;
+  top:0;
+  position: sticky;
 }
 
 /* ---- Top row ---- */
